@@ -1,0 +1,1 @@
+PROGRAM_LOGO="../../assets/msd/logo.jpg"
